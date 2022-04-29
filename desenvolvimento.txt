@@ -1,0 +1,3 @@
+Pessoas
+- Crie dois Objetos contendo: um nome, um cpf e um rg
+- Acesse as três propriedades dos dois objetos.
